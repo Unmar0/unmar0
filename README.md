@@ -1,4 +1,3 @@
-<!-- Black Mode-Themed Professional GitHub README with Design & Animations -->
 
 <h1 align="center">Welcome to My GitHub 👨‍💻</h1>
 
@@ -18,6 +17,8 @@
 - 👨‍💻 I’m Hamza Kara Bala, a **Full Stack Developer** with 4+ years of experience, specializing in **front-end** and **back-end** development.
 - ⚙️ Proficient in **JavaScript, React, MySQL, Java**, and **OCR & AI technologies**.
 - 🔧 I've worked on **AI-driven solutions** and innovative projects in the IT industry.
+- 🚀 Currently looking for opportunities to collaborate on exciting open-source projects.
+- 💼 I'm passionate about **solving complex problems** and constantly learning new technologies.
 - 📫 Reach me at: [hamzekarabala3@gmail.com](mailto:hamzekarabala3@gmail.com)
 
 ---
@@ -31,6 +32,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js">
 </p>
 
 ---
@@ -46,8 +48,9 @@
 
 ### 🌟 Highlighted Projects
 
-- [**Taradodna**](https://github.com/Unmar0/Taradodna) – Web application transforming published materials into **audiobooks** using **OCR and AI**.
-- [**Makin Tech Solutions**](https://github.com/Unmar0/MakinTech) – Full Stack **WordPress and Web App Development**.
+- [**Taradodna**](https://github.com/Unmar0/Taradodna) – A web application dedicated to transforming published materials into **audiobooks** using **OCR and AI** technology.
+- [**Makin Tech Solutions**](https://github.com/Unmar0/MakinTech) – Comprehensive **WordPress and Web Application Development**.
+- [**AI-Based E-Commerce Fraud Detection**](https://github.com/Unmar0/AI-Fraud-Detection) – Advanced **machine learning** project for detecting fraudulent e-commerce transactions.
 
 ---
 
@@ -56,6 +59,14 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Unmar0&theme=algolia" alt="GitHub Streak">
 </p>
+
+---
+
+### 🧠 Recently Acquired Skills
+
+- **Python Programming** – Completed **Python Institute Certification**.
+- **IoT and Digital Transformation** – Certified by Cisco.
+- **Building Resilience** – Enhanced critical thinking and problem-solving abilities through **LinkedIn Learning**.
 
 ---
 
@@ -72,8 +83,16 @@
 
 ---
 
+### 📂 Fun Fact
+
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake gif">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </p>
 
 <p align="center">
