@@ -2,8 +2,9 @@
 <h1 align="center">Welcome to My GitHub 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=450&lines=Full+Stack+Developer+%7C+Software+Engineer;Experienced+in+JavaScript,+React,+MySQL;Passionate+about+AI+and+Innovation" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=450&lines=Full+Stack+Developer%7C+Software+Engineer;Experienced+in+JavaScript%2C+React%2C+MySQL;Passionate+about+AI+and+Innovation" alt="Typing SVG">
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Unmar0?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers"> 
