@@ -13,7 +13,7 @@
 
 ### 🛠️ About Me
 
-- 👨‍💻 I’m Hamza Kara Bala, a **Full Stack Developer** with 4+ years of experience, specializing in **front-end** and **back-end** development.
+- 👨‍💻 I’m Hamza Kara Bala, a **Software Engineer** with 4+ years of experience, specializing in **front-end** and **back-end** development.
 - ⚙️ Proficient in **JavaScript, Angular, MySQL, MongoDB, .NET Abp**, and **OCR & AI technologies**.
 - 🔧 I've worked on **AI-driven solutions** and innovative projects in the IT industry.
 - 🚀 Currently looking for opportunities to collaborate on exciting open-source projects.
