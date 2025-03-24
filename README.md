@@ -14,7 +14,7 @@
 ### 🛠️ About Me
 
 - 👨‍💻 I’m Hamza Kara Bala, a **Software Engineer** with 4+ years of experience in **full-stack development**.
-- ⚙️ Proficient in **JavaScript, React, Express.js, MySQL, MongoDB, OCR & AI technologies, and AWS**.
+- ⚙️ Proficient in **JavaScript, React, Express.js, MySQL, MongoDB, Firebase, Flutter, Dart, OCR & AI technologies, and AWS**.
 - 🔧 Passionate about **building AI-driven solutions** and working on innovative projects.
 - 🚀 Open to **collaborating on open-source** and exciting software projects.
 - 💼 Dedicated to **solving complex problems** and continuous learning.
@@ -26,6 +26,8 @@
 
 #### **Frontend**
 <p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
 </p>
@@ -36,10 +38,17 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 </p>
 
+#### **Mobile & Cross-Platform**
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+</p>
+
 #### **Databases**
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/Redis-D92D2A?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
 </p>
 
