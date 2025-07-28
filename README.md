@@ -1,86 +1,24 @@
-# 👋 Hi, I'm Hamza Kara Bala
+<!-- GITHUB BANNER W/ NEON + TYPING + ICONS + INTRO + SOCIAL + PROJECTS + CTA -->
 
-🚀 **Full Stack Developer | Software Engineer**  
-📍 Based in Amman, Jordan  
-📫 [Email me](mailto:hamzekarabala3@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/hamza-kara-bala) | [GitHub](https://github.com/your-username)  
+<div align="center">
 
----
+  <!-- Neon Header -->
+  <h1 style="font-family:'Fira Code', monospace; font-size: 2.5em; color:#00ffe5; text-shadow: 0 0 15px #00ffe5;">
+    👋 Hey, I'm <span style="color:#f7bc27;">Hamza Kara Bala</span>
+  </h1>
 
-## 🧠 About Me
+  <!-- Typing effect (via SVG) -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFE5&center=true&vCenter=true&width=600&lines=Software+Engineer;Tech-for-Good+Builder;Creating+Inclusive+AI+Solutions;Building+Apps+That+Speak+for+the+Blind"
+    alt="Typing SVG" />
 
-I'm a dedicated Full Stack Developer with over **4 years of experience** building scalable, user-focused software solutions. My journey spans **front-end**, **back-end**, and **mobile development**, combining a love for clean UI with solid architecture and backend logic.
+  <!-- Neon Quote -->
+  <p style="color:#f7bc27; font-family:monospace; font-size:1.1em; margin-top:20px;">
+    <strong>“I develop software that reaches beyond the visible — making impact felt, not just seen.”</strong>
+  </p>
 
-I enjoy leading projects, solving problems creatively, and turning ideas into real products. With a strong academic foundation and certifications from **IBM**, **University of Alberta**, and hands-on roles in **Türkiye, UAE, USA**, I’m constantly pushing myself to learn and grow.
-
----
-
-## 💼 Experience Highlights
-
-- **Michigan ProTech – USA**  
-  *Full Stack Developer (Full-time)*  
-  Lead a development team to deliver complete web and mobile solutions.
-
-- **MIDAS WDA – Türkiye**  
-  *Full Stack Developer (Part-time)*  
-  Built full-stack web applications with a strong focus on UI/UX and backend services.
-
-- **Makin Tech – UAE**  
-  *Full Stack Developer (Part-time)*  
-  Developed and maintained WordPress and custom websites with responsive designs.
-
-- **Midas Computer Center – Jordan**  
-  *Lead – IT Department*  
-  Specialized in high-end gaming systems and PC troubleshooting.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Frameworks:**  
-`JavaScript` `Dart` `Node.js` `Express.js` `Flutter` `Laravel`
-
-**Tools & Platforms:**  
-`VS Code` `Figma` `GitHub` `Git` `Jira` `WordPress` `Cursor`
-
----
-
-## 🏆 Certifications & Achievements
-
-- **IBM Full Stack Software Developer** – July 2025  
-- **IBM iOS & Android App Developer** – April 2025  
-- **Software Design & Architecture** – University of Alberta – July 2025  
-- **Introduction to DevOps (IBM)** – December 2024  
-- **Xpand 2024, Pocket Gamers, Esports Future Summit** – Featured Speaker/Attendee
-
----
-
-## 📚 Education
-
-**Bachelor's in Computer Science**  
-_Hussein Technical University_  
-- Research: Detecting fraudulent e-commerce transactions using ML & data analysis
-
----
-
-## 🌍 Languages
-
-- **Arabic:** Native  
-- **English:** Fluent  
-- **Turkish:** Good  
-- **Spanish:** Beginner  
-
----
-
-## 📂 Projects & Repositories
-
-Check out some of my highlighted projects below, or explore my repositories to see what I’m currently working on!
-
-> 📌 _To be added: Add a `Pinned Projects` section with links to key repos once your projects are pushed._
-
----
-
-## 🤝 Let’s Connect
-
-I'm open to collaborations, freelance projects, and exciting new opportunities. Feel free to reach out via email or LinkedIn!
-
+  <!-- Tech Stack Icons -->
+  <p align="center" style="margin-top: 10px;">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,flutter,dart,laravel,nodejs,express,figma&theme=dark"
+      alt="Tech stack icons" />
+  </p>
