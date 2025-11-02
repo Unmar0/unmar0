@@ -19,6 +19,6 @@
 
   <!-- Tech Stack Icons -->
   <p align="center" style="margin-top: 10px;">
-    <img src="https://skillicons.dev/icons?i=html,css,js,flutter,dart,laravel,nodejs,express,figma&theme=dark"
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,flutter,dart,laravel,nodejs,express,figma&theme=dark"
       alt="Tech stack icons" />
   </p>
