@@ -1,90 +1,246 @@
+<!-- =========================================================
+     HAMZA KARA BALA — GITHUB PROFILE README
+     Replace all YOUR_* placeholders before publishing.
+========================================================== -->
+
 <div align="center">
 
-<!-- Typing SVG hero (colors baked into the SVG itself, so they actually render on GitHub) -->
+# 👋 Hey, I'm Hamza Kara Bala
+
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FFE5&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Hamza+Kara+Bala;Software+Engineer;Tech-for-Good+Builder;Creating+Inclusive+AI+Solutions;Building+Apps+That+Speak+for+the+Blind"
-  alt="Typing SVG" />
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=00CDB7&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Engineer;Laravel+%E2%80%A2+Vue+%E2%80%A2+TypeScript+%E2%80%A2+Flutter;Building+Scalable+Web+%26+Mobile+Products;Turning+Complex+Workflows+into+Simple+Experiences"
+  alt="Typing introduction"
+/>
 
-<br>
+<br />
 
-<!-- Quote as an image so the glitch color survives GitHub's CSS sanitizer -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=6000&pause=3000&color=F7BC27&center=true&vCenter=true&width=700&lines=%22I+develop+software+that+reaches+beyond+the+visible+%E2%80%94+making+impact+felt%2C+not+just+seen.%22" alt="Quote" />
+### Building scalable platforms, business systems, APIs, and mobile experiences with clean architecture and thoughtful UI/UX.
 
-<br><br>
+<br />
 
-<!-- Tech stack -->
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vue,flutter,dart,laravel,figma&theme=dark" alt="Tech stack icons" />
-
-<br><br>
-
-<!-- Social badges -->
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-00FFE5?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-00CDB7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-F7BC27?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://YOUR-PORTFOLIO.com">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FFE5" alt="Portfolio"/>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-F7BC27?style=for-the-badge&logo=gmail&logoColor=111111" alt="Email" />
 </a>
 
 </div>
 
-<br>
+---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-- 🔭 Full Stack Software Engineer, currently building at **Flex Ops**
-- 🎓 BS in Computer Science, Hussein Technical University
-- 🌍 Based in Amman, Jordan — working in both Arabic and English
-- 💡 Focused on **accessibility-first** and tech-for-good products — apps built with blind and low-vision users in mind
-- 🎨 Also design my own branding/UI — logos, visual identity, dark-tech aesthetics
-- ⚡ Fun fact: I like my UIs the way I like my terminals — dark, sharp, glitchy
+I'm a **full-stack software engineer** focused on building scalable web platforms, business dashboards, REST APIs, and cross-platform mobile applications.
 
-<br>
+My primary stack includes **Laravel, Vue.js, Inertia.js, TypeScript, Pinia, Tailwind CSS, and Flutter**. I enjoy converting complex business requirements into maintainable systems and intuitive user experiences.
 
-## 🛠️ Tech Stack
+- 🔭 Building production-ready web and mobile products
+- 🧱 Applying clean architecture and reusable component patterns
+- 🌍 Developing multilingual and RTL-ready applications
+- 🔌 Integrating external APIs, services, and business platforms
+- 🎨 Combining software engineering with UI/UX design
+- 🤖 Exploring AI-powered applications, automation, and intelligent workflows
 
-**Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,flutter,dart&theme=dark" />
+---
 
-**Backend**
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs&theme=dark" />
+## 🛠️ Technology Stack
 
-**Design / Tools**
-<img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark" />
+### Frontend
 
-<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,react,typescript,javascript,tailwind,html,css,vite&theme=dark" alt="Frontend technologies" />
+</p>
+
+- Vue.js
+- React
+- TypeScript
+- JavaScript
+- Inertia.js
+- Pinia
+- Tailwind CSS
+- HTML5 and CSS3
+- Vite
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,postgres,redis&theme=dark" alt="Backend technologies" />
+</p>
+
+- Laravel
+- PHP
+- Node.js
+- REST API development
+- Laravel Sanctum
+- MySQL
+- PostgreSQL
+- Redis
+- Authentication and authorization
+- Role and permission systems
+
+### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" alt="Mobile technologies" />
+</p>
+
+- Flutter
+- Dart
+- FlutterFlow
+- Android and iOS development
+- API integration
+- Mobile-first UI development
+
+### Tools and Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma,postman,cloudflare,nginx&theme=dark" alt="Development tools" />
+</p>
+
+- Git and GitHub
+- Docker
+- Linux server administration
+- Nginx
+- Figma
+- Postman
+- Cloudflare
+- CI/CD workflows
+- DigitalOcean
+- VPS deployment
+
+---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| **[Project Name](https://github.com/YOUR-USERNAME/repo)** | One-line impact statement — e.g. "Screen-reader-first mobile app helping blind users navigate public transit" | Flutter · Dart · Firebase |
-| **[Project Name](https://github.com/YOUR-USERNAME/repo)** | One-line impact statement | Laravel · Vue · Tailwind |
-| **[Project Name](https://github.com/YOUR-USERNAME/repo)** | One-line impact statement | React · TypeScript |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br>
+### 🌍 Wwain
 
-## 📊 GitHub Stats
+A multilingual travel discovery platform that helps users explore places, events, businesses, and local experiences.
 
-<div align="center">
+**Main stack**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&hide_border=true&title_color=00FFE5&icon_color=F7BC27&text_color=c9d1d9&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark&hide_border=true&title_color=00FFE5&text_color=c9d1d9&bg_color=0d1117" />
+`Laravel` `Vue.js` `Inertia.js` `Pinia` `Flutter` `MySQL`
 
-<br>
+**Highlights**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark&hide_border=true&background=0D1117&ring=00FFE5&fire=F7BC27&currStreakLabel=00FFE5" />
+- Multilingual travel content
+- Countries, cities, places, events, and businesses
+- Reviews, favorites, categories, and amenities
+- Mobile API powered by Laravel Sanctum
+- Admin content-management platform
+- RTL and LTR support
+- Location-based discovery features
 
-</div>
+<a href="https://wwain.com">
+  <img src="https://img.shields.io/badge/Live_Website-00CDB7?style=flat-square&logo=google-chrome&logoColor=white" alt="Wwain live website" />
+</a>
+<a href="YOUR_WWAIN_REPOSITORY_URL">
+  <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Wwain repository" />
+</a>
 
-<br>
+</td>
+<td width="50%" valign="top">
 
-## 🤝 Let's Collaborate
+### 📡 Telecom Operations Platform
 
-Open to collaborating on **accessibility-focused** and **social-impact** projects. If you're building something that makes tech reach further, reach out.
+A large-scale business platform for managing telecommunications services, products, packages, campaigns, customers, orders, and operational workflows.
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=00FFE5&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
-</div>
+**Main stack**
+
+`Laravel` `Vue.js` `TypeScript` `Inertia.js` `Pinia` `PostgreSQL`
+
+**Highlights**
+
+- Service and package management
+- Dynamic product and package attributes
+- Campaign and commercial pricing engine
+- CRM and sales workflows
+- Ticketing and SLA management
+- Role-based access control
+- Activity logging and audit trails
+- Third-party platform integrations
+
+<a href="YOUR_TELECOM_PROJECT_URL">
+  <img src="https://img.shields.io/badge/Case_Study-4069B0?style=flat-square&logo=readme&logoColor=white" alt="Telecom platform case study" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Marketplace Platform
+
+A multi-role marketplace system with separate administration and vendor experiences for managing products, categories, orders, shipping, and permissions.
+
+**Main stack**
+
+`Laravel` `Vue.js` `Inertia.js` `Pinia` `MySQL`
+
+**Highlights**
+
+- Admin and vendor dashboards
+- Product and category management
+- Product attributes and brands
+- Order and shipping workflows
+- Spatie role and permission management
+- Activity logging
+- Reusable dashboard components
+- Secure CRUD architecture
+
+<a href="YOUR_MARKETPLACE_REPOSITORY_URL">
+  <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Marketplace repository" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 CRM and Commission System
+
+A business management system for tracking leads, opportunities, customers, sales orders, and employee commissions.
+
+**Main stack**
+
+`Laravel` `Vue.js` `MySQL` `Tailwind CSS`
+
+**Highlights**
+
+- Lead and opportunity management
+- Customer relationship tracking
+- Sales order workflows
+- Commission calculations
+- Performance dashboards
+- Permission-based access
+- Reporting and activity history
+
+<a href="YOUR_CRM_REPOSITORY_URL">
+  <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="CRM repository" />
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧩 What I Build
+
+```text
+✓ Multi-role administration dashboards
+✓ REST APIs and third-party integrations
+✓ Marketplace and e-commerce systems
+✓ CRM, sales, and commission platforms
+✓ Telecom and operational management systems
+✓ Product, service, package, and campaign engines
+✓ Multilingual and RTL-ready applications
+✓ Cross-platform Flutter applications
+✓ Reusable Vue and Tailwind component libraries
+✓ Secure authentication and authorization systems
